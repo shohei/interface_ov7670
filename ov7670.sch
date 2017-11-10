@@ -76,36 +76,36 @@
 <library name="ov7670">
 <packages>
 <package name="OV7670">
-<pad name="3V3" x="-2.54" y="7.62" drill="0.6" shape="square"/>
-<pad name="VSYNC" x="-2.54" y="5.08" drill="0.6" shape="square"/>
-<pad name="XCLK" x="-2.54" y="2.54" drill="0.6" shape="square"/>
-<pad name="SDA" x="-2.54" y="0" drill="0.6" shape="square"/>
-<pad name="D1" x="-2.54" y="-2.54" drill="0.6" shape="square"/>
-<pad name="D3" x="-2.54" y="-5.08" drill="0.6" shape="square"/>
-<pad name="D5" x="-2.54" y="-7.62" drill="0.6" shape="square"/>
-<pad name="D7" x="-2.54" y="-10.16" drill="0.6" shape="square"/>
-<pad name="GND" x="0" y="-10.16" drill="0.6" shape="square"/>
-<pad name="D6" x="0" y="-7.62" drill="0.6" shape="square"/>
-<pad name="D4" x="0" y="-5.08" drill="0.6" shape="square"/>
-<pad name="D2" x="0" y="-2.54" drill="0.6" shape="square"/>
-<pad name="D0" x="0" y="0" drill="0.6" shape="square"/>
-<pad name="SCL" x="0" y="2.54" drill="0.6" shape="square"/>
-<pad name="PLCK" x="0" y="5.08" drill="0.6" shape="square"/>
-<pad name="HREF" x="0" y="7.62" drill="0.6" shape="square"/>
+<pad name="3V3" x="-2.54" y="7.62" drill="0.999996875" diameter="1.524" shape="square"/>
+<pad name="VSYNC" x="-2.54" y="5.08" drill="0.999996875" diameter="1.524" shape="square"/>
+<pad name="XCLK" x="-2.54" y="2.54" drill="0.999996875" diameter="1.524" shape="square"/>
+<pad name="SDA" x="-2.54" y="0" drill="0.999996875" diameter="1.524" shape="square"/>
+<pad name="D1" x="-2.54" y="-2.54" drill="0.999996875" shape="square"/>
+<pad name="D3" x="-2.54" y="-5.08" drill="0.999996875" shape="square"/>
+<pad name="D5" x="-2.54" y="-7.62" drill="0.999996875" shape="square"/>
+<pad name="D7" x="-2.54" y="-10.16" drill="0.999996875" shape="square"/>
+<pad name="GND" x="0" y="-10.16" drill="0.999996875" shape="square"/>
+<pad name="D6" x="0" y="-7.62" drill="0.999996875" shape="square"/>
+<pad name="D4" x="0" y="-5.08" drill="0.999996875" shape="square"/>
+<pad name="D2" x="0" y="-2.54" drill="0.999996875" shape="square"/>
+<pad name="D0" x="0" y="0" drill="0.999996875" diameter="1.524" shape="square"/>
+<pad name="SCL" x="0" y="2.54" drill="0.999996875" diameter="1.524" shape="square"/>
+<pad name="PLCK" x="0" y="5.08" drill="0.999996875" diameter="1.524" shape="square"/>
+<pad name="HREF" x="0" y="7.62" drill="0.999996875" diameter="1.524" shape="square"/>
 </package>
 <package name="PMOD_JD">
-<pad name="1" x="-3.81" y="6.35" drill="0.6" shape="square"/>
-<pad name="2" x="-3.81" y="3.81" drill="0.6" shape="square"/>
-<pad name="3" x="-3.81" y="1.27" drill="0.6" shape="square"/>
-<pad name="4" x="-3.81" y="-1.27" drill="0.6" shape="square"/>
-<pad name="5" x="-3.81" y="-3.81" drill="0.6" shape="square"/>
-<pad name="6" x="-3.81" y="-6.35" drill="0.6" shape="square"/>
-<pad name="12" x="-1.27" y="-6.35" drill="0.6" shape="square"/>
-<pad name="11" x="-1.27" y="-3.81" drill="0.6" shape="square"/>
-<pad name="10" x="-1.27" y="-1.27" drill="0.6" shape="square"/>
-<pad name="9" x="-1.27" y="1.27" drill="0.6" shape="square"/>
-<pad name="8" x="-1.27" y="3.81" drill="0.6" shape="square"/>
-<pad name="7" x="-1.27" y="6.35" drill="0.6" shape="square"/>
+<pad name="1" x="-3.81" y="6.35" drill="0.999996875" shape="square"/>
+<pad name="2" x="-3.81" y="3.81" drill="0.999996875" shape="square"/>
+<pad name="3" x="-3.81" y="1.27" drill="0.999996875" shape="square"/>
+<pad name="4" x="-3.81" y="-1.27" drill="0.999996875" shape="square"/>
+<pad name="5" x="-3.81" y="-3.81" drill="0.999996875" shape="square"/>
+<pad name="6" x="-3.81" y="-6.35" drill="0.999996875" shape="square"/>
+<pad name="12" x="-1.27" y="-6.35" drill="0.999996875" shape="square"/>
+<pad name="11" x="-1.27" y="-3.81" drill="0.999996875" shape="square"/>
+<pad name="10" x="-1.27" y="-1.27" drill="0.999996875" shape="square"/>
+<pad name="9" x="-1.27" y="1.27" drill="0.999996875" shape="square"/>
+<pad name="8" x="-1.27" y="3.81" drill="0.999996875" shape="square"/>
+<pad name="7" x="-1.27" y="6.35" drill="0.999996875" shape="square"/>
 <wire x1="-5.08" y1="7.62" x2="-5.08" y2="-7.62" width="0.127" layer="21"/>
 <wire x1="-5.08" y1="-7.62" x2="0" y2="-7.62" width="0.127" layer="21"/>
 <wire x1="0" y1="-7.62" x2="0" y2="7.62" width="0.127" layer="21"/>
@@ -113,18 +113,18 @@
 <text x="-6.35" y="8.89" size="1.27" layer="21">PMOD_JD</text>
 </package>
 <package name="PMOD_JE">
-<pad name="1" x="0" y="6.35" drill="0.6" shape="square"/>
-<pad name="2" x="0" y="3.81" drill="0.6" shape="square"/>
-<pad name="3" x="0" y="1.27" drill="0.6" shape="square"/>
-<pad name="4" x="0" y="-1.27" drill="0.6" shape="square"/>
-<pad name="5" x="0" y="-3.81" drill="0.6" shape="square"/>
-<pad name="6" x="0" y="-6.35" drill="0.6" shape="square"/>
-<pad name="12" x="2.54" y="-6.35" drill="0.6" shape="square"/>
-<pad name="11" x="2.54" y="-3.81" drill="0.6" shape="square"/>
-<pad name="10" x="2.54" y="-1.27" drill="0.6" shape="square"/>
-<pad name="9" x="2.54" y="1.27" drill="0.6" shape="square"/>
-<pad name="8" x="2.54" y="3.81" drill="0.6" shape="square"/>
-<pad name="7" x="2.54" y="6.35" drill="0.6" shape="square"/>
+<pad name="1" x="0" y="6.35" drill="0.999996875" shape="square"/>
+<pad name="2" x="0" y="3.81" drill="0.999996875" shape="square"/>
+<pad name="3" x="0" y="1.27" drill="0.999996875" shape="square"/>
+<pad name="4" x="0" y="-1.27" drill="0.999996875" shape="square"/>
+<pad name="5" x="0" y="-3.81" drill="0.999996875" shape="square"/>
+<pad name="6" x="0" y="-6.35" drill="0.999996875" shape="square"/>
+<pad name="12" x="2.54" y="-6.35" drill="0.999996875" shape="square"/>
+<pad name="11" x="2.54" y="-3.81" drill="0.999996875" shape="square"/>
+<pad name="10" x="2.54" y="-1.27" drill="0.999996875" shape="square"/>
+<pad name="9" x="2.54" y="1.27" drill="0.999996875" shape="square"/>
+<pad name="8" x="2.54" y="3.81" drill="0.999996875" shape="square"/>
+<pad name="7" x="2.54" y="6.35" drill="0.999996875" shape="square"/>
 <wire x1="-1.27" y1="7.62" x2="-1.27" y2="-7.62" width="0.127" layer="21"/>
 <wire x1="-1.27" y1="-7.62" x2="3.81" y2="-7.62" width="0.127" layer="21"/>
 <wire x1="3.81" y1="-7.62" x2="3.81" y2="7.62" width="0.127" layer="21"/>
