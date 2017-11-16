@@ -467,7 +467,7 @@
 <wire x1="88.9" y1="-12.7" x2="78.74" y2="-12.7" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$1" class="0">
+<net name="GND" class="0">
 <segment>
 <pinref part="D6" gate="G$1" pin="GND"/>
 <wire x1="33.02" y1="15.24" x2="35.56" y2="15.24" width="0.1524" layer="91"/>
