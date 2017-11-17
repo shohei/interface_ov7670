@@ -471,9 +471,9 @@
 <segment>
 <pinref part="D6" gate="G$1" pin="GND"/>
 <wire x1="33.02" y1="15.24" x2="35.56" y2="15.24" width="0.1524" layer="91"/>
-<wire x1="35.56" y1="15.24" x2="35.56" y2="-17.78" width="0.1524" layer="91"/>
-<pinref part="U$3" gate="G$1" pin="6"/>
-<wire x1="35.56" y1="-17.78" x2="55.88" y2="-17.78" width="0.1524" layer="91"/>
+<wire x1="35.56" y1="15.24" x2="35.56" y2="-15.24" width="0.1524" layer="91"/>
+<pinref part="U$3" gate="G$1" pin="5"/>
+<wire x1="55.88" y1="-15.24" x2="35.56" y2="-15.24" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
