@@ -6,6 +6,8 @@
 
 ![](sol.png)
 
-![](milled_pcb.png)
+![](top_pcb.png)
+
+![](bottom_pcb.png)
 
 ![](on_zybo.png)
