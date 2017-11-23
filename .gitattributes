@@ -1,4 +1,4 @@
-*.pro linguist-language=Eagle
-*.brd linguist-language=Java
-*.sch linguist-language=Java
+*.pro linguist-language=eagle
+*.brd linguist-language=eagle
+*.sch linguist-language=eagle
 *.sh linguist-vendored=true
